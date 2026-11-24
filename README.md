@@ -10,9 +10,9 @@ Indonesia, Jensen Huang reinstated as Nvidia CEO, COP31 ending with
 no fossil-fuel deal, US Rep. Jimmy Gomez resigning, and the UN
 chief's call for AI risk rules within a year.
 
-`main.py` (Python 3, standard library only) decodes the picture held
-as base64 in `image_data.py` and writes it to the output directory
-as `entry.png`, byte for byte the same on every run.
+`main.py` (Python 3, standard library only) draws the picture pixel
+by pixel with a built-in 5x7 bitmap font and writes it to the output
+directory as `entry.png`, byte for byte the same on every run.
 
 ## Run it
 
